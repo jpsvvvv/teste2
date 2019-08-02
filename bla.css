@@ -5,7 +5,7 @@
     margin-bottom: 20px;
     margin-left: -8px;
     
-    background-image: url(Pasta/header.jpg);
+    background-image: url(header.jpg);
 }
 .menu{
     position: absolute;
@@ -40,7 +40,7 @@ a:hover{
     position: absolute;
     top: 125px;
     left: 0px;
-    background-image: url(Pasta/floresta%20dois.jpg);
+    background-image: url(floresta%20dois.jpg);
     background-repeat: repeat-x;
 }
 .texto{
@@ -86,7 +86,7 @@ h1{
     font-weight: 700;
 }
 .carlitos{
-    background-image: url(Pasta/dark.jpg);
+    background-image: url(dark.jpg);
     height: 413px;
     max-width: 699px;
     width: 699px;
@@ -95,7 +95,7 @@ h1{
     left: 650px;
 }
 .tevez{
-    background-image: url(Pasta/darke.jpg);
+    background-image: url(darke.jpg);
     height: 422px;
     max-width: 699px;
     width: 699px;
