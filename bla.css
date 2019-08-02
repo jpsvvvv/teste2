@@ -1,0 +1,218 @@
+.cima{
+    height: 125px; 
+    width: 100%;
+    margin-top: -8px;
+    margin-bottom: 20px;
+    margin-left: -8px;
+    
+    background-image: url(Pasta/header.jpg);
+}
+.menu{
+    position: absolute;
+    top: 90px;
+    left: 250px;
+    
+}
+.menu ul{
+    list-style: none;
+    display: flex;
+    
+}
+.menu li a{
+    display: block;
+    width: 100px;
+}
+.cima a{
+    color: aliceblue;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+.logo{
+    position: absolute;
+    top: 6px;
+    left: 50px;
+}
+.frontal{
+    height: 350px;
+    width: 100%;
+    position: absolute;
+    top: 125px;
+    left: 0px;
+    background-image: url(Pasta/floresta%20dois.jpg);
+    background-repeat: repeat-x;
+}
+.texto{
+    height: 100px;
+    width: 200px;
+    position: absolute;
+    top: 225px;
+    left: 600px;
+    font-size: 20px;
+}
+h1{
+    position: absolute;
+    top: 0px;
+    padding-left: 9px;
+    color: aliceblue;
+}
+.linhatres{
+    position: absolute;
+    background-color: #4b0082;
+    height: 857px;
+    left: 641px;
+    top: 475px;
+    width: 10px;
+}
+.conteudo{
+    position: absolute;
+    top: 475px;
+    left: 0px;
+    height: 857px;
+    width: 650px;
+}
+.conteudo h2{
+    text-align: center;
+    font-family: 'Roboto', serif;
+    font-size: 30px;
+    text-decoration: underline;
+}
+.conteudo p{
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: justify;
+    font-family: 'playfair display', serif;
+    font-weight: 700;
+}
+.carlitos{
+    background-image: url(Pasta/dark.jpg);
+    height: 413px;
+    max-width: 699px;
+    width: 699px;
+    position: absolute;
+    top: 489px;
+    left: 650px;
+}
+.tevez{
+    background-image: url(Pasta/darke.jpg);
+    height: 422px;
+    max-width: 699px;
+    width: 699px;
+    position: absolute;
+    top: 910px;
+    left: 650px;
+}
+body{
+    height: 100%;
+    width: 100%;
+}
+footer{
+    height: 260px;
+    width: 100%;
+    position: absolute;
+    top: 1332px;
+    left: 0px;
+    background-color: #4b0082;
+}
+.linha{
+    background-color: #4b0082;
+    position: absolute;
+    height: 15px;
+    width: 100%;
+    top: 475px;
+    left: 0px;
+}
+.face{
+    position: absolute;
+    height: 25px;
+    width: 25px;
+    left: 1100;
+    top: 20px;
+}
+.face a p{
+    position: absolute;
+    top: -12px;
+    left: 30px;
+}
+.face a p:hover{
+    text-decoration: underline;
+}
+.tt{
+    position: absolute;
+    height: 25px;
+    width: 25px;
+    left: 1100px;
+    top: 50px;
+}
+.tt a p{
+    position: absolute;
+    top: -12px;
+    left: 30px;
+}
+.tt a p:hover{
+    text-decoration: underline;
+}
+.insta{
+    position: absolute;
+    height: 25px;
+    width: 25px;
+    left: 1100px;
+    top: 80px;
+}
+.insta a p{
+    position: absolute;
+    top: -12px;
+    left: 30px;
+}
+.insta a p:hover{
+    text-decoration: underline;
+}
+.linhadois{
+    background-color: #4b0082;
+    position: absolute;
+    height: 10px;
+    max-width: 699px;
+    width: 699px;
+    left: 650px;
+    top: 900px;
+}
+.end{
+    position: absolute;
+    height: 260px;
+    width: 400px;
+}
+footer img{
+    height: 150px;
+    position: absolute;
+    top: 70px;
+    left: 5px;
+}
+.um{
+    position: absolute;
+    color: aliceblue;
+    top: 12px;
+    left: 10px;
+}
+.dois:hover{
+    text-decoration: underline;
+}
+.dois{
+    position: absolute;
+    color: aliceblue;
+    font-size: 10px;
+    top: 125px;
+    left: 265px;
+}
+.direitos{
+    position: absolute;
+    top: 225px;
+    left: 1045px;
+}
+.direitos p{
+    color: aliceblue;
+}
+.direitos p:hover{
+    text-decoration-line: line-through;
+}
+
